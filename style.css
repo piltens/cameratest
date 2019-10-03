@@ -4,7 +4,7 @@ body {
  .button {
    position: absolute;
    border-radius: 25px;
-   width: 230px;
+   width: 220px;
    margin: auto;
    font-size: 16px;
    background-color: yellow;
@@ -14,7 +14,7 @@ body {
   
  .popup {
     display: inline-block;
-    width: 230px;
+    width: 220px;
     position: absolute;
     border-radius: 25px;
     top: 40%;
